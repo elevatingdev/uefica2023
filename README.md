@@ -111,3 +111,4 @@ These may indicate firmware, BitLocker, signing, or compatibility problems that 
 - [Secure Boot troubleshooting guide - Microsoft Support](https://support.microsoft.com/en-us/topic/secure-boot-troubleshooting-guide-5d1bf6b4-7972-455a-a421-0184f1e1ed7d)
 - [Secure Boot DB and DBX variable update events - Microsoft Support](https://support.microsoft.com/en-us/topic/secure-boot-db-and-dbx-variable-update-events-37e47cf8-608b-4a87-8175-bdead630eb69)
 - [Act now: Secure Boot certificates expire in June 2026 - Windows IT Pro Blog](https://techcommunity.microsoft.com/blog/windows-itpro-blog/act-now-secure-boot-certificates-expire-in-june-2026/4426856)
+- [Windows Secure Boot UEFI Certificates Expiring June 2026 | Richard M. Hicks Consulting, Inc.](https://directaccess.richardhicks.com/2025/12/04/windows-secure-boot-uefi-certificates-expiring-june-2026/)
